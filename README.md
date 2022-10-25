@@ -26,3 +26,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omerlaleee&show_icons=true&locale=en" alt="omerlaleee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omerlaleee&" alt="omerlaleee" /></p>
+
+--------------------------------------------------------------
+
+### Some Medium Blog <a href="https://medium.com/@omer_lale" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@omer_lale" height="30" width="40" /></a>
+<div id="Medium Blog" align="left">
+
+<a target="_blank" href="https://medium.com/@omer_lale/reflection-145b63d7c65"><img src="https://medium.com/@omer_lale/reflection-145b63d7c65" alt="Recent Article 0"> </a>
+
+
+<a target="_blank" href="https://medium.com/@omer_lale/attributes-in-c-eaa36534c2d3"><img src="https://medium.com/@omer_lale/attributes-in-c-eaa36534c2d3" alt="Recent Article 3"> </a>
+
+</div>
